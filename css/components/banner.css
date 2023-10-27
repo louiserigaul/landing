@@ -1,0 +1,27 @@
+.banner{
+  text-align: center;
+  color: white;
+  padding: 130px 0px;
+  background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%), url(https://qtdental.com/wp-content/uploads/2021/05/AdobeStock_289075360-scaled.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h2 {
+  font-size: 30px;
+  font-weight: lighter;
+  margin-bottom: 40px;
+  color: rgb(230, 85, 123);
+  text-shadow: 1px 1px 2px black;
+}
+
+.banner h1 {
+  font-size: 45px;
+  font-weight: lighter;
+  margin-bottom: 20px;
+  color: rgb(70, 107, 219);
+  text-shadow: 1px 1px 2px black;
+  font-family: 'Poppins', sans-serif;
+}
+
+
